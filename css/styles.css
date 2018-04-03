@@ -1,0 +1,260 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#background{
+	width: 768px;
+	margin: 0 auto;
+}
+.logo {
+	width: 300px;
+	margin: 0 auto;
+	position: relative;
+	top: -582px;
+	opacity: 0.75;
+	text-align: center;
+	background-color: rgba(255,255,255,1.00);
+	padding-top: 0;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 0;
+}
+#text {
+	background: white;
+	width: 500px;
+	margin-top: -5px;
+	margin-right: auto;
+	margin-left: auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 9pt;
+	font-family: Arial black;
+	text-align: center;
+	top: -577px;
+	position: relative;
+	padding-bottom: 0px;
+	padding-top: 1px;
+}
+.about {
+	background: white;
+	width: 300px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: black;
+	font-size: 8pt;
+	font-family: Arial; 
+	text-align: center;
+	position: relative;
+	top: 4px;
+	padding-right: -20px;
+	padding-left: -20px;
+}
+a.highlight:hover {
+    color: black;
+}
+#footer{
+	background: white;
+	width: 160px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	position: relative;
+	margin-top: 9px;
+}
+#background-two{
+	width: 768px;
+	margin: 0 auto;
+	}
+#ice-cream{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -579px;
+}
+#footertwo{
+	background: white;
+	width: 160px;
+	margin: 0 auto;
+	top: -577px;
+	position: relative;
+}
+#texttwo {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 11pt;
+	font-family: Arial black;
+	text-align: center;
+	top: -581px;
+	position: relative;
+	padding-bottom: 60px;
+	padding-top: 10px;
+}
+#bakery{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -1160px;
+}
+#items{
+	width: 500px;
+	height: 600px;
+	margin: 0 auto;
+	position: relative;
+	top: 30px;
+	text-align: center;
+}
+#coffee{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -2110px;
+}
+.coffeeitems{
+	background: white;
+	width: 300px;
+	margin: 0 auto;
+	color: #309f3f;
+	font-size: 6.5pt;
+	font-family: Arial;
+	text-align: center;
+	top: 20px;
+	position: relative;
+	padding-bottom: 20px;
+	line-height: 1pt;
+	font-variant: normal;
+}
+#coffeeitems2{
+	background: white;
+	width: 300px;
+	margin: 0 auto;
+	color: #309f3f;
+	font-size: 6.5pt;
+	font-family: Arial;
+	text-align: center;
+	top: 20px;
+	position: relative;
+	padding-bottom: 20px;
+	line-height: 10pt;
+	font-variant: normal;
+}
+#background-three{
+	width: 768px;
+	margin: 0 auto;
+	}
+#background-four{
+	width: 768px;
+	margin: 0 auto;
+	}
+.sandwichesitems{
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	color: #309f3f;
+	font-size: 6.5pt;
+	font-family: Arial;
+	text-align: center;
+	top: 20px;
+	position: relative;
+	padding-bottom: 20px;
+	line-height: 5pt;
+}
+#background-five{
+	width: 768px;
+	margin: 0 auto;
+	}
+#textfive {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 11pt;
+	font-family: Arial black;
+	text-align: center;
+	top: -577px;
+	position: relative;
+	padding-bottom: 40px;
+	padding-left: 20px;
+	padding-top: 10px;
+	left: 10px;
+}
+#sandwiches{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -2694px;
+}
+#background-six{
+	width: 768px;
+	margin: 0 auto;
+	}
+#hours{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -3272px;
+}
+.hoursitems{
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	color: #309f3f;
+	font-size: 6.5pt;
+	font-family: Arial;
+	text-align: center;
+	top: 10px;
+	position: relative;
+	padding-bottom: 20px;
+	line-height: 5pt;
+	}
+	iframe{
+		position: relative;
+		top:10px;
+	}
+#textsix {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 11pt;
+	font-family: Arial black;
+	text-align: center;
+	top: -581px;
+	position: relative;
+	padding-bottom: 10px;
+	padding-top: 4px;
+}
+#textfour {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 7pt;
+	font-family: Arial black;
+	text-align: center;
+	top: -582px;
+	position: relative;
+	padding-bottom: 40px;
+	padding-top: 10px;
+}
+#textthree {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 11pt;
+	font-family: Arial black;
+	text-align: center;
+	top: -582px;
+	position: relative;
+	padding-top: 10px;
+}
+.iceCreamitems {
+	font-size: 6.5pt;
+}
